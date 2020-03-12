@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio02",
+  "version": "1.0.0",
+  "description": "Programa de consola para generar tablas de multiplicar",
+  "main": "Ejercicio02.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto Salazar Márquez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.3.0"
+  }
+}

@@ -1,0 +1,6 @@
+# Archivos a omitir en el respaldo
+*.txt
+
+# Carpetas a omitir en el respaldo
+node_modules/
+tablas/
